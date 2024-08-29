@@ -1,0 +1,12 @@
+---
+:id: 153677342
+:submitters:
+- :name: Zekai Li
+  :email: zekail@andrew.cmu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-12-10 03:41:43.952579000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-12-09 19:41:43.952579000 Z
+:status: failed
+:score: 10.0

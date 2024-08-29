@@ -1,7 +1,6 @@
 
 import unittest
 import torch
-
 from src.data.constants import TASK_CLASSIFY
 from src.modeling.core.layers import GCNLayer
 from src.data.graph import Graph
